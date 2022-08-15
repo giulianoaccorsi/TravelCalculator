@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TravelCalculator</string>
+    <string name="travel_calculator">Travel Calculator</string>
+    <string name="km_titleLabel">Trajeto Total (Km)</string>
+    <string name="quantos_km_foi_a_viagem">Quantos Km, foi a viagem?</string>
+    <string name="km_litros">Km/Litros</string>
+    <string name="kmL_carro_title">Digite Km/L do seu carro</string>
+    <string name="buttonTitle">Calcular</string>
+    <string name="valorda_gasolina">Valorda Gasolina</string>
+    <string name="digite_o_valor_da_gasolina">Digite o Valor da Gasolina</string>
+</resources>
